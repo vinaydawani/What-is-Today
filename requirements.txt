@@ -1,0 +1,9 @@
+Package                Version
+---------------------- ------------
+beautifulsoup4         4.9.1
+pandas                 1.0.1
+pip                    20.2.3
+pyobjc-core            6.2.2
+pyobjc-framework-Cocoa 6.2.2
+requests               2.23.0
+rumps                  0.3.0
